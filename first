@@ -2,6 +2,13 @@ this is my first line
 this is my second line
 third line
 last
-changes on sunday ne 
+<<<<<<< HEAD
+
 newly added
 seventh commit
+||||||| parent of b637ed7 (sixth commit)
+changes on sunday ne w
+=======
+changes on sunday new
+new sunday
+>>>>>>> b637ed7 (sixth commit)
